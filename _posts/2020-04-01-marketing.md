@@ -3,6 +3,7 @@ title: Der Marketing-Kanon für Sachbuch Autoren
 author: Jakob Berg
 type: post
 url: /marketing/
+tags: marketing
 ---
 
 ## Show Your Work von Austin Kleon
