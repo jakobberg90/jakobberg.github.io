@@ -8,10 +8,10 @@ updated: 2020-04-30T07:45:22+00:00
 headerimage: chengdu.jpg
 sitemap:
   lastmod: 2018-10-30T07:45:22+00:00
-url: /example/
+url: /marketing/
 feature-img: "/images/chengdu.jpg"
 tags:
-  - example
+  - marketing
 ---
 
 ## Show Your Work von Austin Kleon
