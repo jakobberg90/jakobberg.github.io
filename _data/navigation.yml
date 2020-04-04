@@ -1,9 +1,8 @@
 # main links
 main:
-  - title: "Hume"
+  - title: "Home"
     url: /
-  - title: "Über"
-    url: /ueber
   - title: "Essays"
     url: /blog        
-
+  - title: "Über"
+    url: /ueber
