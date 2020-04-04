@@ -22,12 +22,12 @@ Kein Tool, das ich bisher verwendet habe, war in jedem dieser Anwendungsfälle p
 
 Ich benutze zurzeit Notion für 2-5 und Instapaper+Evernote als meinen "Posteingang". Obwohl es sicherlich möglich ist, Notion als Posteingang zu verwenden, ist es nicht sonderlich komfortabel, da die mobile App recht langsam ist. 
 
-[!Notion Wissensmanagement](/images/Slide1.jpg)
+![Notion Wissensmanagement](/images/Slide1.jpg)
 
 
 Da ich allerdings auch nicht wirklich glücklich damit bin, wie Notion mit Wissen umgeht, war ich neugierig, Roam auszuprobieren. Mein erster und auch derzeitiger Eindruck ist, dass Roams primäre Stärke in der Tat das Wissensmanagement ist. Deswegen ergänz es idea meinen momentanen Produktivitäts-Stack
 
-[!Roam Wissensmanagement](/images/Slide2.jpg)
+![Roam Wissensmanagement](/images/Slide2.jpg)
 
 Roam macht es extrem einfach, Links zwischen einzelnen Absätzen und Seiten zu erstellen. Diese Verknüpfungen ermöglichen es dann, Wissenspuzzelteile wiederzuentdecken, wenn sie für die Fertigstellung einer kreativen Aufgabe benötigt werden. Das funktioniert großartig und ist beispielsweise in Notion nicht ohne weiteres möglich.
 
@@ -35,10 +35,10 @@ Derzeit kann Roam allerdings nur die Anwendungsfälle 2-4 aus der Liste oben han
 
 Die Struktur einer Roam-Datenbank ist vom Grundgedanken her chaotisch, während Notion eine klare hierarchische Struktur hat. Chaos ist großartig, wenn es um Wissen und Kreativität geht, aber ist sicherlich nichts, was man sich im Bezug auf Informationen und Aufgaben wünscht. Informationen, Aufgaben und Dateien leben innerhalb von klar definierten Projekten oder Bereichen.
 
-[!Informationen, Aufgaben, Dateien leben in Hierarchie](/images/Slide4.jpg)
+![Informationen, Aufgaben, Dateien leben in Hierarchie](/images/Slide4.jpg)
 
 Im Gegensatz dazu lebt Wissen in einem Netzwerk von miteinander verbundenen Teilen, und Roam ist das erste Werkzeug, das ich bisher verwendet habe, das diesen Fakt wirklich anerkennt. 
 
-[!Wissen lebt in Netzwerk](/images/Slide6.jpg)
+![Wissen lebt in Netzwerk](/images/Slide6.jpg)
 
 
