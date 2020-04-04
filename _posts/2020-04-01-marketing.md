@@ -24,11 +24,12 @@ Ein weitere wichtiger Aspekt der von Nathan Barry diskutiert wird ist, dass man 
 
 ## Experts Secrets von Russell Brunson
 
-Es ist schlichtweg unmöglich Russel Brunsons Buch in wenigen Zeilen zusammenfassen. Nahezu jedes Kapitel enthält wertvolle Marketing-Tipps und ich habe in meinem Exemplar fast alle Seiten markiert. 
+Es ist schlichtweg unmöglich Russel Brunsons Buch in nur wenigen Zeilen zusammenfassen. Nahezu jedes Kapitel enthält wertvolle Marketing-Tipps und ich habe in meinem Exemplar fast alle Seiten markiert. 
 
 Russel Brunson hilft dem Leser insbesondere dabei herauszufinden, wie das eigene Buch im Markt platziert und vermarket werden kann. Der wichtigste Aspekt dabei ist, wie man Leser dort abholt wie aktuell stehen und dorthin bringt, wo sie hin möchten. 
 
 
 ## Trust Me, I'm Lying von Ryan Holiday
 
+Die Idee aus Ryan Holidays Buch die mich nachhaltig am meisten beeinflusst hat, ist wie man sich die Medien-Leiter heraufhangelt. Zunächst gilt es kleine Blogs davon zu überzeugen, über das eigene Projekt zu berichten. Diese Blogposts kann man dann nutzen, um Beiträge in etwas größeren Blogs zu erhalten. Diese wiederum können dann genutzt werden um kleinere Zeitungen und Magazine auf das Projekt aufmerksam zu machen, und die Beiträge in diesen wiederum um große Medienpublikationen von der Relavanz der eignen Arbeit zu überzeugen. (Diese Idee ist natürlich nicht nur interessant, wenn es um Buchprojekte geht.)
 
