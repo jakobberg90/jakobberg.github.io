@@ -23,12 +23,7 @@ layout: default
     <img class="feature-image" src={{ page.feature-img }} alt="Featured Image"/>
   {% endif %}
         
-        <span>[
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {% endfor %}
-]</span>
+
       </header>
       <section class="post__content" itemprop="text">
         {{ content }}
@@ -38,6 +33,13 @@ layout: default
       </section>
 
     </div>
+    
+            <span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
 
     {% if site.comments and page.comments != false %}
       {% include comments.html %}
