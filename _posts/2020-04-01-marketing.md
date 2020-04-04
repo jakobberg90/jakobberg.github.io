@@ -5,9 +5,7 @@ type: post
 url: /marketing/
 tags: marketing
 ---
-
-Im Folgenden möchte ich kurz vier Bücher vorstellen die mein Denken über das Vermarkten von Sachbüchern am entscheidensten geprägt haben.
-
+Die folgenden vier Bücher haben mein Denken über die Vermarkung von Sachbüchern am entscheidensten geprägt.
 
 ## Show Your Work von Austin Kleon
 
