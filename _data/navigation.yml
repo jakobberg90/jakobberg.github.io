@@ -3,6 +3,8 @@ main:
   - title: "Home"
     url: /
   - title: "Essays"
-    url: /blog        
+    url: /blog    
+  - title: "Projekte"
+    url: /projekte
   - title: "Über"
     url: /ueber
