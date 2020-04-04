@@ -6,6 +6,9 @@ url: /marketing/
 tags: marketing
 ---
 
+Im Folgenden möchte ich kurz vier Bücher vorstellen die mein Denken über das Vermarkten von Sachbüchern am entscheidensten geprägt haben.
+
+
 ## Show Your Work von Austin Kleon
 
 **Wie mache ich potentielle Leser bereits vor der Veröffentlichung auf mein Buch aufmerksam?**
