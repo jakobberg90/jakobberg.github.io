@@ -19,7 +19,7 @@ Ich bin mittlerweilen fünf Jahren als Autor tätig und hab in dieser Zeit 8 Bü
 
 Außerdem betreibe ich einen ["Online-Reiseführer" für Physikthemen](https://physicstravelguide.com/) und habe mehrere Physik-[Fachartikel](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=jakob%20schwichtenberg), sowie ein [Editorial](https://www.onlinelibrary.wiley.com/doi/full/10.1002/piuz.201870402) für das Magazin Physik in unserer Zeit veröffentlicht. 
 
-Ich bin davon überzeugt, dass einer der größten Vorteile, die ich gegenüber anderen Leuten habe, dass ich sicherlich nicht der Klügste bin. Ich kann komplexe Sachverhalte in der Regel nicht sonderlich leicht begreifen. Also muss ich komplexe Ideen in kleinere Stücke zerlegen, um sie selbst zu verstehen. Das bedeutet, wenn ich anderen etwas erkläre, versteht es jeder, weil es in so einfache Teile zerlegt ist.
+Ich bin davon überzeugt, dass einer der größten Vorteile, den ich gegenüber anderen Leuten habe, dass ich sicherlich nicht der Klügste bin. Ich kann komplexe Sachverhalte in der Regel nicht sonderlich leicht begreifen. Also muss ich komplexe Ideen in kleinere Stücke zerlegen, um sie selbst zu verstehen. Das bedeutet, wenn ich anderen etwas erkläre, versteht es jeder, weil es in so einfache Teile zerlegt ist.
 
 Über Physik und Mathematik schreibe ich auf meiner englischsprachigen Webseite [www.JakobSchwichtenberg.com](http://jakobschwichtenberg.com/)
 
