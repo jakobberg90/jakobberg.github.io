@@ -8,12 +8,12 @@ Ich tausche mich immer gerne mit anderen Autoren und angehenden Autoren aus. In 
 Falls du also Interesse hast dich mit mir auszutauschen, wähle einfach einen Termin in folgendem Kalender aus:
 
 
-{% 
+
 <!-- Calendly Inline-Widget Beginn -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/jakobberg/30min" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
 <!-- Calendly Inline-Widget Ende -->
-%}
+
 
 
 ## Warum ich das anbiete
