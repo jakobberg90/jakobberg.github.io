@@ -7,21 +7,22 @@ permalink: "/impressum.html"
 
 Angaben gemäß § 5 TMG:
 
-Jakob Schwichtenberg
-Kriegsstr. 47
-76133 Karlsruhe
+- Jakob Schwichtenberg
+- Kriegsstr. 47
+- 76133 Karlsruhe
+
 Kontakt:
-Telefon: Auf Anfrage
-E-Mail:  <jakobberg90@gmail.com>
+- Telefon: Auf Anfrage
+- E-Mail:  <jakobberg90@gmail.com>
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-Jakob Schwichtenberg
-Kriegsstr. 47
-76133 Karlsruhe
+- Jakob Schwichtenberg
+- Kriegsstr. 47
+- 76133 Karlsruhe
 Kontakt:
-Telefon: Auf Anfrage
-E-Mail:  <jakobberg90@gmail.com>
+- Telefon: Auf Anfrage
+- E-Mail:  <jakobberg90@gmail.com>
 
 ## Haftungsausschluss:
 ### Haftung für Inhalte
