@@ -4,8 +4,6 @@ main:
     url: /
   - title: "Essays"
     url: /blog    
-  - title: "Projekte"
-    url: /projekte
   - title: "Virtueller Kaffee"
     url: /kaffee
   - title: "Über"
