@@ -1,6 +1,6 @@
 ---
 title: "Virtueller Kaffee"
-permalink: "/kaffee.html"
+permalink: "/kaffee"
 ---
 
 Ich tausche mich gerne mit anderen Autoren und angehenden Autoren aus. Die Hauptmotivation hinter den meisten meiner [Projekten](/projekte) ist etwas anzubieten, von dem ich mir selbst wünsche, dass es es gäbe.
