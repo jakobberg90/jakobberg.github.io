@@ -7,7 +7,7 @@ Hi!
 
 Ich heiße Jakob, wie du wahrscheinlich bereits anhand der dicken Überschrift oben herausgefunden hast. 
 
-Ich bin mittlerweilen fünf Jahren als Autor tätig und hab in dieser Zeit 7 Bücher veröffentlicht. Die meisten meiner Bücher sind im Eigenverlag erschienen, zwei allerdings auch bei traditionellen Verlagen:
+Ich bin mittlerweilen fünf Jahren als Autor tätig und hab in dieser Zeit 8 Bücher veröffentlicht. Die meisten meiner Bücher sind im Eigenverlag erschienen, zwei allerdings auch bei traditionellen Verlagen:
 - [Physics from Symmetry](https://www.springer.com/de/book/9783319192017)
 - [Durch Symmetrie die moderne Physik verstehen](https://www.springer.com/de/book/9783662538111) (deutsche Übersetzung von Physics from Symmetry)
 - [Physics from Finance](https://www.amazon.com/Physics-Finance-introduction-fundamental-interactions/dp/1795882417)
