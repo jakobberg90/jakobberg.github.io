@@ -3,7 +3,7 @@ title: "Virtueller Kaffee"
 permalink: "/kaffee"
 ---
 
-Ich tausche mich immer gerne mit anderen Autoren und angehenden Autoren aus. In Zeiten des Internets gibt es keinen Grund warum man diesen Austausch auf zufällige Begegnungen auf Buchmessen oder ähnlichen Veranstaltungen beschränken sollte.
+Ich tausche mich immer gerne mit anderen Autoren aus. In Zeiten des Internets gibt es keinen Grund warum man diesen Austausch auf zufällige Begegnungen auf Buchmessen oder ähnlichen Veranstaltungen beschränken sollte.
 
 Falls du also Interesse hast dich mit mir auszutauschen, wähle einfach einen Termin in folgendem Kalender aus:
 
@@ -14,14 +14,14 @@ Falls du also Interesse hast dich mit mir auszutauschen, wähle einfach einen Te
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
 <!-- Calendly Inline-Widget Ende -->
 
+Falls du asynchrone Kommunikation bevorzugt, freue ich mich natürlich auch immer über E-Mails and <jakobberg90@gmail.com>.
 
-
-## Warum ich das anbiete
+## Warum?
 
 Die Hauptmotivation hinter den meisten meiner [Projekten](/projekte) ist etwas anzubieten, von dem ich mir selbst wünsche, dass es es gäbe.
 
 
-## Warum du dich dafür interessieren solltest
+## Warum ich?
 
 Ich habe es bisher nicht auf die Spiegel-Bestseller-Liste geschafft und bin sicherlich kein Experte was alle Fragen rund um das Schreiben und veröffentlichen von Büchern angeht. Allerdings glaube ich, dass ich gerade deswegen angehenden Autoren und solchen die gerade ihr erstes oder zweites Buch veröffentlich habe, weiterhelfen kann. (Anfänger sollten von Fortgeschrittenen lernen, und Fortgeschrittene von Experten.)[/experte] 
 
